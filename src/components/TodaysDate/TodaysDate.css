@@ -1,0 +1,34 @@
+.todays-date {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.date-details {
+    display: flex;
+    align-items: center;
+}
+
+.date {
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.mon-year-details {
+    margin: 0 10px;
+}
+
+.mon {
+    font-weight: 500;
+}
+
+.year {
+    font-weight: 100;
+    color: #ccc;
+}
+
+.day {
+    font-size: 1.1rem;
+    margin: 0 10px;
+    color: #ccc;
+}

@@ -1,0 +1,15 @@
+.progress-bar {
+    margin: 20px 0;
+}
+
+.progress-bar-outer {
+    background-color: #2e2d34;
+    height: 15px;
+}
+
+.progress-bar-inner {
+    background-color: #62dca5;
+    color: #62dca5;
+    height: 15px;
+    transition: all 1000ms;
+}
